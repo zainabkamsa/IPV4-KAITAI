@@ -1,0 +1,4 @@
+C:\Users\zainabkamsa\Desktop\مرحلة النصر\Project\IPV4HEADER\IPV4HEADER\obj\Debug\netcoreapp3.1\IPV4HEADER.csprojAssemblyReference.cache
+C:\Users\zainabkamsa\Desktop\مرحلة النصر\Project\IPV4HEADER\IPV4HEADER\obj\Debug\netcoreapp3.1\IPV4HEADER.AssemblyInfoInputs.cache
+C:\Users\zainabkamsa\Desktop\مرحلة النصر\Project\IPV4HEADER\IPV4HEADER\obj\Debug\netcoreapp3.1\IPV4HEADER.AssemblyInfo.cs
+C:\Users\zainabkamsa\Desktop\مرحلة النصر\Project\IPV4HEADER\IPV4HEADER\obj\Debug\netcoreapp3.1\IPV4HEADER.csproj.CoreCompileInputs.cache
